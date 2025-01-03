@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Trading bot using Python**
 
-- 🌱 I’m currently learning **REST API, GCP and Flutter**
+- 🌱 I’m currently learning **REST API, GCP and React Native**
 
 - 👨‍💻 Also Visit My Portfolio [https://yash03030303.github.io/Portfolio/](https://yash03030303.github.io/Portfolio/)
 
